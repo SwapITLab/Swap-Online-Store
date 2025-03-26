@@ -17,3 +17,6 @@ This is a modern e-commerce web application that provides a seamless shopping ex
 ![image](https://github.com/user-attachments/assets/296c1ef2-a497-45a3-9163-3cd1ff2d8ab8)
 
 ![image](https://github.com/user-attachments/assets/c3a530d6-76ff-4e63-afcd-8c36267bd4bf)
+
+
+Note: This is a demo project.
