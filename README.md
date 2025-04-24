@@ -1,22 +1,50 @@
 # Swap Online Store
 
-This is a modern e-commerce web application that provides a seamless shopping experience for users. The platform features a user-friendly interface where customers can browse through various product categories, view detailed product information, manage their shopping cart, and complete purchases. The application is designed with a clean and organized structure, separating different components and pages for better maintainability. It includes essential features like a responsive shopping cart system, a streamlined checkout process, and smooth navigation between different sections of the website. The design is modern and adaptable, ensuring a consistent experience across different devices and screen sizes. The application's architecture prioritizes both user experience and code organization, making it a solid foundation for an e-commerce platform that focuses on delivering a smooth and efficient shopping journey for its users.
+Welcome to **Swap Online Store**, a modern and seamless e-commerce platform designed to deliver an excellent shopping experience. This application offers a clean, organized, and responsive interface for users, allowing them to easily browse, shop, and complete purchases.
 
-![image](https://github.com/user-attachments/assets/23289d76-83c4-4800-97c1-e653cdb395c7)
+## Features
+- **User-Friendly Interface**: Browse through various product categories with ease.
+- **Responsive Shopping Cart**: Effortlessly manage items in your cart.
+- **Streamlined Checkout**: Enjoy a smooth and secure checkout process.
+- **Cross-Device Compatibility**: A consistent experience across devices and screen sizes.
+- **Well-Organized Architecture**: Clean code structure for easy maintenance and scalability.
 
-![image](https://github.com/user-attachments/assets/602824b9-1456-4874-8e50-ea399944c9be)
+## Screenshots
 
-![image](https://github.com/user-attachments/assets/66d8cfff-6cf6-4f9e-874d-756bb8924b44)
+Here are some screenshots of the platform in action:
 
-![image](https://github.com/user-attachments/assets/60220cf7-c32d-4252-9903-72dcf5a2f9c2)
+### Home Page
 
-![image](https://github.com/user-attachments/assets/8c910429-bb57-437e-9081-028ec60e582e)
+![Home Page](https://github.com/user-attachments/assets/23289d76-83c4-4800-97c1-e653cdb395c7)
 
-![image](https://github.com/user-attachments/assets/71306fb3-4732-45c8-9479-a370fb5a6a26)
+### Product Categories
 
-![image](https://github.com/user-attachments/assets/296c1ef2-a497-45a3-9163-3cd1ff2d8ab8)
+![Product Categories](https://github.com/user-attachments/assets/602824b9-1456-4874-8e50-ea399944c9be)
 
-![image](https://github.com/user-attachments/assets/c3a530d6-76ff-4e63-afcd-8c36267bd4bf)
+### Product Details
 
+![Product Details](https://github.com/user-attachments/assets/66d8cfff-6cf6-4f9e-874d-756bb8924b44)
 
-Note: This is a demo project.
+### Shopping Cart
+
+![Shopping Cart](https://github.com/user-attachments/assets/60220cf7-c32d-4252-9903-72dcf5a2f9c2)
+
+### Checkout
+
+![Checkout](https://github.com/user-attachments/assets/8c910429-bb57-437e-9081-028ec60e582e)
+
+### Order Confirmation
+
+![Order Confirmation](https://github.com/user-attachments/assets/71306fb3-4732-45c8-9479-a370fb5a6a26)
+
+### User Dashboard
+
+![User Dashboard](https://github.com/user-attachments/assets/296c1ef2-a497-45a3-9163-3cd1ff2d8ab8)
+
+### Admin Dashboard
+
+![Admin Dashboard](https://github.com/user-attachments/assets/c3a530d6-76ff-4e63-afcd-8c36267bd4bf)
+
+---
+
+> **Note**: This is a demo project.
